@@ -1,9 +1,11 @@
 import './styles.css';
 
-function Banner(){
+export default function Banner(){
    return(
-      <h1>Hello, World!</h1>
+      <div>       
+         <h1 className="header">The Amazing Ocean</h1>
+      </div>
    );
 }
 
-export default Banner;
+//export default Banner;

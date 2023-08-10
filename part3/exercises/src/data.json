@@ -1,0 +1,39 @@
+
+const projects = [
+{
+    
+   "canvas": "Fox",
+   "designer": "Pip and Roo",
+   "photoUrl": "long URL",
+   "alt": "Stitched fox with fluffy tail"
+},
+
+{
+    
+     
+   "canvas": "cat",
+   "designer": "Pip and Roo",
+   "photoUrl": "long URL",
+   "alt": "Stitched fox with fluffy tail"
+    
+},
+
+{
+     
+   "canvas": "toast",
+   "designer": "Pip and Roo",
+   "photoUrl": "long URL",
+   "alt": "Stitched fox with fluffy tail"
+
+},
+{
+
+ 
+    "canvas": "gene",
+    "designer": "Pip and Roo",
+    "photoUrl": "long URL",
+    "alt": "Stitched fox with fluffy tail"
+}
+]
+
+export defaulf projects;

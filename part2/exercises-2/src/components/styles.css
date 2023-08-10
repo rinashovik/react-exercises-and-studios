@@ -1,13 +1,13 @@
 .header {
    padding: 60px;
    text-align: center;
-   background: #021373;
+   background: #e4aa0a;
    color: white;
    font-size: 80px;
  }
  
  .profile {
-   background-color: rgb(126, 126, 227);
+   background-color: rgb(67, 69, 228);
    padding: 2%;
    width: 50%;
    list-style-type: disc;
@@ -15,7 +15,7 @@
  }
  
  .isAFish {
-   background-color: rgb(31, 31, 222);
+   background-color: rgb(71, 141, 233);
    color: rgb(213, 213, 247);
    width: 50%;
    padding: 2%;
