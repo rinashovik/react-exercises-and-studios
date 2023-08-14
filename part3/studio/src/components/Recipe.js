@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.acouplecooks.com/pretty-simple-cooking/";
+   let authorPhoto = "https://www.acouplecooks.com/pretty-simple-cooking/";
+   let authorName = "Sonja & Alex";
 
    return (
       <div>
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["Cake", "Pasta", "Shrimp"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -23,8 +23,8 @@ const RecipeIngredients = () => {
             <li>{ingredients[0]}</li>
             <li>{ingredients[1]}</li>
             <li>{ingredients[2]}</li>
-            <li>{ingredients[3]}</li>
-            <li>{ingredients[4]}</li>
+            {/* <li>{ingredients[3]}</li>
+            <li>{ingredients[4]}</li> */}
          </ul>
       </div>
    );

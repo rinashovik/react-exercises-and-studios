@@ -2,7 +2,7 @@ import './styles.css';
 
 export default function Button() {
 function onLearnMore(){
-   alert('Slipsh Splash');
+   alert(' Fun Slipsh Splash');
 }
    return ( 
          <button onClick={onLearnMore}>
